@@ -16,7 +16,7 @@
   ## 🏫History
   <li>홍익대학교 컴퓨터공학과 재학중<sub>(2020.03 ~ )</sub></li>
   <li>멋쟁이 사자처럼 10기 - BackEnd<sub>(2022.03 ~ 2022.12)</sub></li>
-  <li>École 42 <a href="https://42seoul.kr/seoul42/main/view">42Seoul</a> 본과정 Cadet<sub>(2022.03 ~ 2022.12)</sub></li>
+  <li>École 42 <a href="https://42seoul.kr/seoul42/main/view">42Seoul</a> 본과정 Cadet<sub>(2022.11 ~ )</sub></li>
   <li>멋쟁이 사자처럼 11기 - BackEnd 운영진<sub>(2023.03 ~ )</sub></li>
   <br>
   <li>페스티벌 알람 서비스 - <a href="https://github.com/MUTSA-TEAM-FESTIVALAM/festivalam_backEnd">Festivalarm</a> - BackEnd<sub> (2022.08 ~ 2022.12)</sub></li>
