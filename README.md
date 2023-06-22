@@ -21,7 +21,7 @@
   <br>
   <li>페스티벌 알람 서비스 - <a href="https://github.com/MUTSA-TEAM-FESTIVALAM/festivalam_backEnd">Festivalarm</a> - BackEnd<sub> (2022.08 ~ 2022.12)</sub></li>
   <li>멋쟁이 사자처럼 11기 리크루팅 페이지 - <a href="https://github.com/Likelion-HongikUniv/likelion-hongik-Backend">Likelion-HongikUniv</a> - BackEnd<sub> (2022.12 ~ 2023.02)</sub></li>
-  <li> 얼굴 인식 닮은 꼴 검사 사이트 - <a href="https://github.com/deep-look/deep-look-server">Deep-Look</a> - BackEnd<sub> (2023.05 ~ 2023.05)</sub></li>
+  <li> 얼굴 인식 닮은 꼴 검사 사이트 - ( <a href="https://deep-look.vercel.app">Deep-Look-Web</a><a href="https://github.com/deep-look/deep-look-server">Deep-Look</a> - BackEnd<sub> (2023.05 ~ 2023.05)</sub></li>
   </br>
   </br>
   
