@@ -27,6 +27,9 @@
   <li> 멋쟁이 사자처럼 페이지(총괄 페이지) - <a href="https://github.com/LikelionUniv/LikelionUniv-Server">LikelionUniv</a> - BackEnd<sub> (2023.08 ~ 진행중)</sub></li>
   </br>
   </br>
+
+  ## 🤩Portfolio
+  <a href="https://lacy-midnight-18c.notion.site/1-6d7e2a7f764f43eeb8f9ea0352170c7b">My Portfolio</a>
   
   ## 👨‍💻Status
 
