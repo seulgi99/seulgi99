@@ -18,7 +18,6 @@
   <li>홍익대학교 컴퓨터공학과 재학중<sub>(2019.03 ~ 2025.02(예정))</sub></li>
   <li>멋쟁이 사자처럼 10기 - BackEnd<sub>(2022.03 ~ 2022.12)</sub></li>
   <li>멋쟁이 사자처럼 11기 - BackEnd 운영진<sub>(2023.03 ~ )</sub></li>
-  <br>
   <li>페스티벌 알람 서비스 - <a href="https://github.com/MUTSA-TEAM-FESTIVALAM/festivalam_backEnd">Festivalarm</a> - BackEnd<sub> (2022.08 ~ 2022.12)</sub></li>
   <li>멋쟁이 사자처럼 11기 리크루팅 페이지(홍익대학교) Likelion-HongikUniv</a> - BackEnd<sub> (2022.12 ~ 2023.02)</sub></li>
   <li> 얼굴 인식 닮은 꼴 검사 사이트(<a href="https://deep-look.vercel.app">Deep-Look-Web</a>) - <a href="https://github.com/deep-look/deep-look-server">Deep-Look</a> - BackEnd<sub> (2023.05 ~ 2023.05)</sub></li>
