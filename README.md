@@ -24,6 +24,7 @@
   <li> 2023홍익대학교 축제 사이트 - <a href="https://github.com/HongikUnivFestival/server-with-spring-boot">2023hiufestainfo</a> - Server<sub> (2023.08 ~ 2023.09)</sub></li>
   <li> 멋쟁이 사자처럼 페이지(총괄 페이지) - LikelionUniv - BackEnd<sub> (2023.08)</sub></li>
   <li> 모스트엑스 외주 - 일상구독 - BackEnd<sub> (2023.12 ~ 현재)</sub></li>
+  <li> 법인카드 발급 및 관리 외주 - 스텝페이 Baas - BackEnd<sub> (2024.08 ~ 현재)</sub></li>
   </br>
   </br>
 
