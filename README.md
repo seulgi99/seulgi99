@@ -27,8 +27,4 @@
   <li> 법인카드 발급 및 관리 외주 - 스텝페이 Baas - BackEnd<sub> (2024.08 ~ 현재)</sub></li>
   </br>
   </br>
-
-  ## Portfolio
-  <a href="https://lacy-midnight-18c.notion.site/131faf9101de4925b1622ff64dab83a4?pvs=4">My Portfolio</a>
-
  </div>
